@@ -1,0 +1,35 @@
+[
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 30
+  },
+  {
+    "id": "3",
+    "name": "Sam",
+    "age": " 45"
+  },
+  {
+    "id": "4",
+    "name": "ABC",
+    "age": "65"
+  },
+  {
+    "id": "eD4Y3iS-",
+    "name": "asasadas",
+    "lname": "dsadsa",
+    "stuId": "32",
+    "email": "sdsaa@gmail.com",
+    "phno": "0987654321",
+    "address": "gsdfhgd asghfdasfdash "
+  },
+  {
+    "id": "zWiQljnI",
+    "name": "dwafs",
+    "lname": "fds",
+    "stuId": "32",
+    "email": "sdsa@sda.com",
+    "phno": "0987654321",
+    "address": "dasdsbvbsd asbdanmd"
+  }
+]
